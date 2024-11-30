@@ -4,7 +4,7 @@ terraform {
     organization = "ULIMA"
 
     workspaces {
-      name = "arqui-as-is"
+      name = "Arquitectura_AS-IS"
     }
   }
 }
